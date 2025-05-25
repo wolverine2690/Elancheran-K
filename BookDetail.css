@@ -1,0 +1,11 @@
+.book-detail{
+    padding: 20px;
+    font-family: arial, sans-serif;
+}
+.book-detail h2{
+    color: #222;
+}
+.book-detail p{
+    color: #444;
+    margin-bottom: 10px;
+}

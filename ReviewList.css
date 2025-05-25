@@ -1,0 +1,28 @@
+.review-section{
+    padding: 20px;
+    font-family: arial, sans-serif;
+}
+.review-section h3{
+    margin-bottom: 15px;
+    color: #333;
+}
+.review-list{
+    list-style: none;
+    padding:0;
+}
+.review-list{
+    list-style: none;
+    padding: 0;
+}
+.review-item{
+    border: 1px solid #ddd;
+    background-color: #fafafa;
+    margin-bottom: 12px;
+    padding: 12px;
+    border-radius: 6px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+.review-item p{
+    margin: 5px 0;
+    color: #555;
+}
